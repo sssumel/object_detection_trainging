@@ -6,5 +6,5 @@
 
 How to run:
 
-***bash
+'''bash
 CUDA_VISIBLE_DEVICES
